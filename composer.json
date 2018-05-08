@@ -1,0 +1,17 @@
+{
+  "name": "hitigerxu/test",
+  "description": "just test",
+  "license": "mit",
+  "version":"0.1.2",
+  "authors": [
+    {
+      "name": "hitigerxu",
+      "email": "1053049433@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "hitigerxutest\\": "src/"
+    }
+  }
+}
